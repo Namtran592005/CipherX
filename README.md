@@ -1,1 +1,53 @@
-# CipherX-Beta
+# CipherX Beta
+
+CipherX Beta là một ứng dụng mã hóa văn bản đơn giản sử dụng lý thuyết hỗn loạn và thuật toán băm SHA-256 để cung cấp một phương pháp mã hóa phức tạp và an toàn. Chương trình được viết bằng Python và sử dụng thư viện `customtkinter` để tạo giao diện người dùng (GUI).
+
+## Các tính năng chính
+
+- **Mã hóa văn bản:** Sử dụng lý thuyết hỗn loạn và SHA-256 để tạo khóa động và mã hóa từng ký tự của thông điệp.
+- **Giải mã văn bản:** Khôi phục thông điệp gốc từ thông điệp mã hóa bằng cách sử dụng khóa động và yếu tố ngữ cảnh.
+- **Giao diện người dùng thân thiện:** Dễ dàng sử dụng với các khung nhập liệu và nút chức năng.
+
+## Yêu cầu hệ thống
+
+- Python 3.x
+- Thư viện `customtkinter`
+- Thư viện `hashlib`
+- Thư viện `tkinter`
+
+## Cài đặt
+
+1. **Clone repository:**
+
+    ```sh
+    git clone https://github.com/username/CipherX-Beta.git
+    cd CipherX-Beta
+    ```
+
+2. **Cài đặt các thư viện phụ thuộc:**
+
+    ```sh
+    pip install customtkinter
+    ```
+
+3. **Chạy chương trình:**
+
+    ```sh
+    python CipherX.py
+    ```
+
+## Hướng dẫn sử dụng
+
+1. **Mã hóa văn bản:**
+   - Nhập thông điệp cần mã hóa vào ô "Nhập Văn Bản".
+   - Nhập khóa bí mật vào ô "Khóa bí mật".
+   - Nhấn nút "Mã hóa". Kết quả mã hóa sẽ hiển thị trong khung kết quả cùng với yếu tố ngữ cảnh.
+
+2. **Giải mã văn bản:**
+   - Nhập thông điệp mã hóa vào ô "Nhập Văn Bản".
+   - Nhập khóa bí mật vào ô "Khóa bí mật".
+   - Nhập yếu tố ngữ cảnh vào ô "Yếu tố ngữ cảnh".
+   - Nhấn nút "Giải mã". Thông điệp gốc sẽ hiển thị trong khung kết quả.
+
+3. **Xóa các ô nhập liệu:**
+   - Nhấn nút "Xóa" để xóa tất cả các ô 
