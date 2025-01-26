@@ -1,6 +1,6 @@
 from setuptools import setup
 
-APP = ['CipherX_Beta.py']
+APP = ['CipherX.py']
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
