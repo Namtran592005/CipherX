@@ -4,7 +4,7 @@ CipherX Beta là một ứng dụng mã hóa văn bản đơn giản sử dụng
 
 ## Các tính năng chính
 
-- **Mã hóa văn bản:** Sử dụng lý thuyết hỗn loạn và SHA-256 để tạo khóa động và mã hóa từng ký tự của thông điệp.
+- **Mã hóa văn bản:** Sử dụng lý thuyết hỗn loạn và SHA-256 để tạo khóa động và mã hóa từng ký tự của văn bản.
 - **Giải mã văn bản:** Khôi phục văn bản gốc từ văn bản mã hóa bằng cách sử dụng khóa động và yếu tố ngữ cảnh.
 - **Giao diện người dùng thân thiện:** Dễ dàng sử dụng với các khung nhập liệu và nút chức năng.
 
