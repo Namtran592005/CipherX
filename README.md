@@ -32,8 +32,8 @@ CipherX Beta là một ứng dụng mã hóa văn bản đơn giản sử dụng
 
 3. **Chạy chương trình:**
 
-    ```sh
-    python CipherX.py
+    ```
+    CipherX_Beta.exe
     ```
 
 ## Hướng dẫn sử dụng
