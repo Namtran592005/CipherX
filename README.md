@@ -1,4 +1,5 @@
-CipherX
+# CipherX
+
 CipherX là một ứng dụng mã hóa văn bản đơn giản sử dụng lý thuyết hỗn loạn và thuật toán băm SHA-256 để cung cấp một phương pháp mã hóa phức tạp và an toàn. Chương trình được viết bằng Python và sử dụng thư viện customtkinter để tạo giao diện người dùng (GUI).
 
 Các tính năng chính
