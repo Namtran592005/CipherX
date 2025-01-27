@@ -33,7 +33,7 @@ CipherX là một ứng dụng mã hóa văn bản đơn giản sử dụng lý 
 3. **Chạy chương trình:**
 
     ```
-    chạy tệp exe
+    CipherX_1.1.exe
     ```
 
 ## Hướng dẫn sử dụng
