@@ -32,8 +32,8 @@ CipherX là một ứng dụng mã hóa văn bản đơn giản sử dụng lý 
 
 3. **Chạy chương trình:**
 
-    ```sh
-    python CipherX.py
+    ```
+    chạy tệp exe
     ```
 
 ## Hướng dẫn sử dụng
